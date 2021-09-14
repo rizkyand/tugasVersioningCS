@@ -6,6 +6,10 @@ ini rizky yang edit
 
 <<<<<<< HEAD
 test -2 cakra
+<<<<<<< HEAD
 =======
 test -2 cakra
 >>>>>>> parent of 31bd54c (edit filetext.txt)
+=======
+test -3 cakra
+>>>>>>> parent of c8d67d7 (edit kesekian kalinya filetext.txt)

@@ -4,4 +4,8 @@ Ini coba menambah file text
 Wibu juga manusia, punya rasa punya hati
 ini rizky yang edit
 
+<<<<<<< HEAD
 test -2 cakra
+=======
+test -2 cakra
+>>>>>>> parent of 31bd54c (edit filetext.txt)

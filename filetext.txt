@@ -2,3 +2,5 @@ Ini coba menambah file text
 
 Wibu juga manusia, punya rasa punya hati
 ini rizky yang edit
+
+test -2 cakra
